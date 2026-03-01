@@ -4,6 +4,7 @@ SmartSpend is a personalized income and expense tracker that lets you log expens
 # Project Structure
 Images folder 
 
+
 index.html
 - html page that contains all user visible sites. 
 
